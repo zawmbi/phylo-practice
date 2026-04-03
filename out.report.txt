@@ -1,0 +1,239 @@
+=== Monophyly Analysis Summary ===
+Total internal nodes: 230
+Monophyletic: 110
+Non-monophyletic: 120
+Unresolved: 0
+
+--- Monophyletic Clades ---
+  Euphyllophyta (clade) [196 tips]
+  Spermatophyta (clade) [194 tips]
+  Magnoliopsida (class) [190 tips]
+  Mesangiospermae (clade) [187 tips]
+  Pentapetalae (clade) [159 tips]
+  lamiids (clade) [24 tips]
+  Liliopsida (clade) [21 tips]
+  Bryophyta (clade) [20 tips]
+  Bryophytina (clade) [19 tips]
+  Rosales (order) [18 tips]
+  Petrosaviidae (subclass) [18 tips]
+  Bryopsida (class) [16 tips]
+  commelinids (clade) [16 tips]
+  Solanales (order) [15 tips]
+  Rosaceae (family) [15 tips]
+  Asterales (order) [14 tips]
+  Poales (order) [14 tips]
+  Asteraceae (family) [13 tips]
+  Brassicales (order) [13 tips]
+  Malvales (order) [13 tips]
+  Poaceae (family) [13 tips]
+  Bryidae (subclass) [12 tips]
+  Caryophyllales (order) [12 tips]
+  Brassicaceae (family) [12 tips]
+  Malvaceae (family) [12 tips]
+  Marchantiophyta (clade) [11 tips]
+  Solanaceae (family) [11 tips]
+  Malpighiales (order) [11 tips]
+  Heliantheae alliance (clade) [9 tips]
+  Fragaria (genus) [9 tips]
+  Malvoideae (subfamily) [9 tips]
+  Solanoideae (subfamily) [8 tips]
+  Brassiceae (tribe) [8 tips]
+  Gossypium (genus) [8 tips]
+  Saliceae (tribe) [8 tips]
+  Caesalpinioideae (subfamily) [7 tips]
+  Sapindales (order) [7 tips]
+  PACMAD clade (clade) [7 tips]
+  Hypnanae (superorder) [6 tips]
+  Jungermanniopsida (class) [6 tips]
+  Chenopodiaceae (family) [6 tips]
+  indigoferoid/millettioid clade (clade) [6 tips]
+  Amygdaloideae (subfamily) [6 tips]
+  Andropogoneae (tribe) [6 tips]
+  Anthocerotophyta (clade) [5 tips]
+  Hypnales (order) [5 tips]
+  Jungermanniales (order) [5 tips]
+  Marchantiales (order) [5 tips]
+  Bidens (genus) [5 tips]
+  Solanum (genus) [5 tips]
+  Lamiales (order) [5 tips]
+  Trifolieae (tribe) [5 tips]
+  Phaseoleae (tribe) [5 tips]
+  Anthocerotopsida (class) [4 tips]
+  Orthotrichaceae (family) [4 tips]
+  Cephaloziineae (suborder) [4 tips]
+  Acrogymnospermae (clade) [4 tips]
+  Helianthus (genus) [4 tips]
+  Gentianales (order) [4 tips]
+  Convolvulaceae (family) [4 tips]
+  Ericales (order) [4 tips]
+  Trifolium (genus) [4 tips]
+  Maleae (tribe) [4 tips]
+  Populus (genus) [4 tips]
+  Salix (genus) [4 tips]
+  Oryza (genus) [4 tips]
+  Anthoceros (genus) [3 tips]
+  Scapaniaceae (family) [3 tips]
+  Magnoliaceae (family) [3 tips]
+  apioid superclade (clade) [3 tips]
+  Apocynaceae (family) [3 tips]
+  Nicotiana (genus) [3 tips]
+  Beta (genus) [3 tips]
+  Nyctaginaceae (family) [3 tips]
+  Anacardiaceae (family) [3 tips]
+  Cucurbitaceae (family) [3 tips]
+  Santalales (order) [3 tips]
+  Tripsacinae (subtribe) [3 tips]
+  Alismatales (order) [3 tips]
+  Funariaceae (family) [2 tips]
+  Polytrichaceae (family) [2 tips]
+  Marchantia (genus) [2 tips]
+  Ophioglossidae (subclass) [2 tips]
+  Nymphaea (genus) [2 tips]
+  Magnolia (genus) [2 tips]
+  Asclepiadeae (tribe) [2 tips]
+  Solanum subgen. Lycopersicon (subgenus) [2 tips]
+  Hyoscyameae (tribe) [2 tips]
+  Oleeae (tribe) [2 tips]
+  Ericaceae (family) [2 tips]
+  Sileneae (tribe) [2 tips]
+  Chenopodioideae (subfamily) [2 tips]
+  Mirabilis (genus) [2 tips]
+  Lathyrus (genus) [2 tips]
+  Glycine subgen. Soja (subgenus) [2 tips]
+  Vigna (genus) [2 tips]
+  mimosoid clade (clade) [2 tips]
+  Senna (genus) [2 tips]
+  Spondias (genus) [2 tips]
+  Citrus (genus) [2 tips]
+  Sapindaceae (family) [2 tips]
+  Prunus (genus) [2 tips]
+  Corchorus (genus) [2 tips]
+  Euphorbiaceae (family) [2 tips]
+  Myrtales (order) [2 tips]
+  Ranunculoideae (subfamily) [2 tips]
+  Arecaceae (family) [2 tips]
+  Zea (genus) [2 tips]
+  Triticum (genus) [2 tips]
+  Asparagales (order) [2 tips]
+
+--- Non-Monophyletic Clades ---
+  Magnoliopsida (class) [188 tips] - intruders: Nymphaea_colorata, Nymphaea_hybrid_cultivar
+  Mesangiospermae (clade) [184 tips] - intruders: Liriodendron_tulipifera, Magnolia_biondii, Magnolia_officinalis
+  Mesangiospermae (clade) [163 tips] - intruders: Liriodendron_tulipifera, Magnolia_biondii, Magnolia_officinalis, Cocos_nucifera, Phoenix_dactylifera... (+19 more)
+  Mesangiospermae (clade) [161 tips] - intruders: Liriodendron_tulipifera, Magnolia_biondii, Magnolia_officinalis, Aconitum_kusnezoffii, Hepatica_maxima... (+21 more)
+  Mesangiospermae (clade) [160 tips] - intruders: Liriodendron_tulipifera, Magnolia_biondii, Magnolia_officinalis, Nelumbo_nucifera, Aconitum_kusnezoffii... (+22 more)
+  Pentapetalae (clade) [158 tips] - intruders: Vitis_vinifera
+  Pentapetalae (clade) [155 tips] - intruders: Tolypanthus_maclurei, Viscum_album, Malania_oleifera, Vitis_vinifera
+  Pentapetalae (clade) [96 tips] - intruders: Apium_graveolens, Saposhnikovia_divaricata, Coriandrum_sativum, Triosteum_pinnatifidum, Arctium_lappa... (+58 more)
+  Pentapetalae (clade) [94 tips] - intruders: Apium_graveolens, Saposhnikovia_divaricata, Coriandrum_sativum, Triosteum_pinnatifidum, Arctium_lappa... (+60 more)
+  Pentapetalae (clade) [59 tips] - intruders: Bupleurum_falcatum, Glycyrrhiza_uralensis, Medicago_truncatula, Trifolium_aureum, Trifolium_grandiflorum... (+95 more)
+  Pentapetalae (clade) [57 tips] - intruders: Apium_graveolens, Saposhnikovia_divaricata, Coriandrum_sativum, Triosteum_pinnatifidum, Arctium_lappa... (+97 more)
+  asterids (clade) [47 tips] - intruders: Bupleurum_falcatum
+  asterids (clade) [43 tips] - intruders: Rhododendron_simsii, Vaccinium_macrocarpon, Aegiceras_corniculatum, Camellia_sinensis, Bupleurum_falcatum
+  rosids (clade) [37 tips] - intruders: Glycyrrhiza_uralensis, Medicago_truncatula, Trifolium_aureum, Trifolium_grandiflorum, Trifolium_meduseum... (+54 more)
+  Embryophyta (clade) [36 tips] - intruders: Ophioglossum_californicum, Psilotum_nudum, Cycas_taitungensis, Ginkgo_biloba, Pinus_taeda... (+191 more)
+  Pentapetalae (clade) [36 tips] - intruders: Apium_graveolens, Saposhnikovia_divaricata, Coriandrum_sativum, Triosteum_pinnatifidum, Arctium_lappa... (+118 more)
+  Pentapetalae (clade) [35 tips] - intruders: Apium_graveolens, Saposhnikovia_divaricata, Coriandrum_sativum, Triosteum_pinnatifidum, Arctium_lappa... (+119 more)
+  Embryophyta (clade) [31 tips] - intruders: Anthoceros_agrestis, Anthoceros_punctatus, Anthoceros_angustus, Nothoceros_aenigmaticus, Leiosporoceros_dussii... (+196 more)
+  Pentapetalae (clade) [27 tips] - intruders: Apium_graveolens, Saposhnikovia_divaricata, Coriandrum_sativum, Triosteum_pinnatifidum, Arctium_lappa... (+127 more)
+  Pentapetalae (clade) [26 tips] - intruders: Apium_graveolens, Saposhnikovia_divaricata, Coriandrum_sativum, Triosteum_pinnatifidum, Arctium_lappa... (+128 more)
+  malvids (clade) [26 tips] - intruders: Geranium_maderense, Mangifera_longipes, Spondias_mombin, Spondias_tuberosa, Citrus_maxima... (+5 more)
+  Pentapetalae (clade) [25 tips] - intruders: Apium_graveolens, Saposhnikovia_divaricata, Coriandrum_sativum, Triosteum_pinnatifidum, Arctium_lappa... (+129 more)
+  fabids (clade) [21 tips] - intruders: Glycyrrhiza_uralensis, Medicago_truncatula, Trifolium_aureum, Trifolium_grandiflorum, Trifolium_meduseum... (+33 more)
+  campanulids (clade) [19 tips] - intruders: Bupleurum_falcatum
+  lamiids (clade) [19 tips] - intruders: Dorcoceras_hygrometricum, Ajuga_reptans, Castilleja_paramensis, Hesperelaea_palmeri, Osmanthus_fragrans
+  campanulids (clade) [18 tips] - intruders: Ilex_pubescens, Bupleurum_falcatum
+  Pentapetalae (clade) [18 tips] - intruders: Apium_graveolens, Saposhnikovia_divaricata, Coriandrum_sativum, Triosteum_pinnatifidum, Arctium_lappa... (+136 more)
+  Pentapetalae (clade) [17 tips] - intruders: Apium_graveolens, Saposhnikovia_divaricata, Coriandrum_sativum, Triosteum_pinnatifidum, Arctium_lappa... (+137 more)
+  Pentapetalae (clade) [16 tips] - intruders: Apium_graveolens, Saposhnikovia_divaricata, Coriandrum_sativum, Triosteum_pinnatifidum, Arctium_lappa... (+138 more)
+  Bryopsida (class) [15 tips] - intruders: Buxbaumia_aphylla
+  Bryopsida (class) [13 tips] - intruders: Funaria_hygrometrica, Physcomitrium_patens, Buxbaumia_aphylla
+  Asteraceae (family) [12 tips] - intruders: Arctium_lappa
+  Bryidae (subclass) [11 tips] - intruders: Bartramia_pomiformis
+  Asteraceae (family) [11 tips] - intruders: Arctium_lappa, Chrysanthemum_boreale
+  Caryophyllales (order) [11 tips] - intruders: Nepenthes_ventricosa_x_Nepenthes_alata
+  Poaceae (family) [11 tips] - intruders: Triticum_aestivum, Triticum_timopheevii
+  Bryidae (subclass) [10 tips] - intruders: Bartramia_pomiformis, Pohlia_nutans
+  Asteroideae (subfamily) [10 tips] - intruders: Chrysanthemum_boreale
+  Pentapetalae (clade) [10 tips] - intruders: Apium_graveolens, Saposhnikovia_divaricata, Coriandrum_sativum, Triosteum_pinnatifidum, Arctium_lappa... (+144 more)
+  Malvaceae (family) [10 tips] - intruders: Corchorus_capsularis, Corchorus_olitorius
+  Pentapetalae (clade) [9 tips] - intruders: Apium_graveolens, Saposhnikovia_divaricata, Coriandrum_sativum, Triosteum_pinnatifidum, Arctium_lappa... (+145 more)
+  Malpighiales (order) [9 tips] - intruders: Manihot_esculenta, Ricinus_communis
+  Caryophyllales (order) [8 tips] - intruders: Bougainvillea_spectabilis, Mirabilis_himalaica, Mirabilis_jalapa, Nepenthes_ventricosa_x_Nepenthes_alata
+  malvids (clade) [8 tips] - intruders: Arabidopsis_thaliana, Arabis_alpina, Capsella_rubella, Boechera_stricta, Brassica_carinata... (+23 more)
+  Fragaria (genus) [8 tips] - intruders: Fragaria_nilgerrensis
+  IRL clade (clade) [7 tips] - intruders: Glycyrrhiza_uralensis
+  Brassiceae (tribe) [7 tips] - intruders: Raphanus_sativus
+  Gossypium (genus) [7 tips] - intruders: Gossypium_barbadense
+  Solanoideae (subfamily) [6 tips] - intruders: Hyoscyamus_niger, Physochlaina_orientalis
+  Gossypium (genus) [6 tips] - intruders: Gossypium_arboreum, Gossypium_barbadense
+  Fragaria (genus) [5 tips] - intruders: Fragaria_moschata, Fragaria_orientalis, Fragaria_viridis, Fragaria_nilgerrensis
+  Andropogoneae (tribe) [5 tips] - intruders: Chrysopogon_zizanioides
+  Hypnales (order) [4 tips] - intruders: Myurella_julacea
+  campanulids (clade) [4 tips] - intruders: Arctium_lappa, Bidens_bipinnata, Bidens_biternata, Bidens_pilosa, Bidens_parviflora... (+11 more)
+  Bidens (genus) [4 tips] - intruders: Bidens_tripartita
+  Caesalpinioideae (subfamily) [4 tips] - intruders: Senna_occidentalis, Senna_tora, Gleditsia_sinensis
+  Sapindales (order) [4 tips] - intruders: Mangifera_longipes, Spondias_mombin, Spondias_tuberosa
+  Brassicaceae (family) [4 tips] - intruders: Brassica_carinata, Brassica_nigra, Sinapis_arvensis, Brassica_juncea, Brassica_napus... (+3 more)
+  Brassica (genus) [4 tips] - intruders: Brassica_carinata, Brassica_nigra
+  Gossypium (genus) [4 tips] - intruders: Gossypium_arboreum, Gossypium_thurberi, Gossypium_trilobum, Gossypium_barbadense
+  Orthotrichaceae (family) [3 tips] - intruders: Ulota_hutchinsiae
+  Bryophytina (clade) [3 tips] - intruders: Bartramia_pomiformis, Pohlia_nutans, Sanionia_uncinata, Climacium_dendroides, Callicladium_imponens... (+11 more)
+  Marchantiales (order) [3 tips] - intruders: Marchantia_paleacea, Marchantia_polymorpha_subsp._ruderalis
+  Acrogymnospermae (clade) [3 tips] - intruders: Cycas_taitungensis
+  Bidens (genus) [3 tips] - intruders: Bidens_parviflora, Bidens_tripartita
+  Helianthus (genus) [3 tips] - intruders: Helianthus_annuus
+  Convolvulaceae (family) [3 tips] - intruders: Cuscuta_japonica
+  Solanum (genus) [3 tips] - intruders: Solanum_aethiopicum, Solanum_melongena
+  Lamiales (order) [3 tips] - intruders: Hesperelaea_palmeri, Osmanthus_fragrans
+  Ericales (order) [3 tips] - intruders: Camellia_sinensis
+  Chenopodiaceae (family) [3 tips] - intruders: Beta_macrocarpa, Beta_vulgaris_subsp._vulgaris, Beta_vulgaris_subsp._maritima
+  Phaseoleae (tribe) [3 tips] - intruders: Glycine_max, Glycine_soja
+  Caesalpinioideae (subfamily) [3 tips] - intruders: Acacia_ligulata, Leucaena_trichandra, Haematoxylum_brasiletto, Libidibia_coriaria
+  Rosales (order) [3 tips] - intruders: Fragaria_gracilis, Fragaria_tibetica, Fragaria_nubicola, Fragaria_iinumae, Fragaria_iturupensis... (+10 more)
+  Fragaria (genus) [3 tips] - intruders: Fragaria_iinumae, Fragaria_iturupensis, Fragaria_moschata, Fragaria_orientalis, Fragaria_viridis... (+1 more)
+  Fragaria (genus) [3 tips] - intruders: Fragaria_gracilis, Fragaria_tibetica, Fragaria_nubicola, Fragaria_iinumae, Fragaria_iturupensis... (+1 more)
+  Maleae (tribe) [3 tips] - intruders: Torminalis_glaberrima
+  Brassicaceae (family) [3 tips] - intruders: Boechera_stricta, Brassica_carinata, Brassica_nigra, Sinapis_arvensis, Brassica_juncea... (+4 more)
+  Brassiceae (tribe) [3 tips] - intruders: Brassica_juncea, Brassica_napus, Brassica_oleracea, Brassica_rapa, Raphanus_sativus
+  Brassica (genus) [3 tips] - intruders: Brassica_carinata, Brassica_nigra, Brassica_rapa
+  Gossypium (genus) [3 tips] - intruders: Gossypium_arboreum, Gossypium_davidsonii, Gossypium_thurberi, Gossypium_trilobum, Gossypium_barbadense
+  Populus (genus) [3 tips] - intruders: Populus_alba
+  Salix (genus) [3 tips] - intruders: Salix_dunnii
+  Oryza (genus) [3 tips] - intruders: Oryza_minuta
+  Anthoceros (genus) [2 tips] - intruders: Anthoceros_angustus
+  Hypnales (order) [2 tips] - intruders: Callicladium_imponens, Pseudanomodon_attenuatus, Myurella_julacea
+  Hypnales (order) [2 tips] - intruders: Sanionia_uncinata, Climacium_dendroides, Myurella_julacea
+  Orthotrichaceae (family) [2 tips] - intruders: Orthotrichum_stellatum, Ulota_hutchinsiae
+  Scapaniaceae (family) [2 tips] - intruders: Diplophyllum_taxifolium
+  Marchantiales (order) [2 tips] - intruders: Dumortiera_hirsuta, Marchantia_paleacea, Marchantia_polymorpha_subsp._ruderalis
+  Acrogymnospermae (clade) [2 tips] - intruders: Cycas_taitungensis, Ginkgo_biloba
+  apioid superclade (clade) [2 tips] - intruders: Coriandrum_sativum
+  Bidens (genus) [2 tips] - intruders: Bidens_pilosa, Bidens_parviflora, Bidens_tripartita
+  Helianthus (genus) [2 tips] - intruders: Helianthus_annuus, Helianthus_grosseserratus
+  Convolvulaceae (family) [2 tips] - intruders: Evolvulus_alsinoides, Cuscuta_japonica
+  Solanum (genus) [2 tips] - intruders: Solanum_lycopersicum, Solanum_pennellii, Solanum_tuberosum
+  Nicotiana (genus) [2 tips] - intruders: Nicotiana_attenuata
+  Lamiales (order) [2 tips] - intruders: Dorcoceras_hygrometricum, Hesperelaea_palmeri, Osmanthus_fragrans
+  Beta (genus) [2 tips] - intruders: Beta_vulgaris_subsp._maritima
+  Pentapetalae (clade) [2 tips] - intruders: Apium_graveolens, Saposhnikovia_divaricata, Coriandrum_sativum, Triosteum_pinnatifidum, Arctium_lappa... (+152 more)
+  Trifolium (genus) [2 tips] - intruders: Trifolium_meduseum, Trifolium_pratense
+  Trifolium (genus) [2 tips] - intruders: Trifolium_aureum, Trifolium_grandiflorum
+  Caesalpinioideae (subfamily) [2 tips] - intruders: Acacia_ligulata, Leucaena_trichandra, Senna_occidentalis, Senna_tora, Gleditsia_sinensis
+  Cucurbitaceae (family) [2 tips] - intruders: Citrullus_lanatus
+  Rosales (order) [2 tips] - intruders: Ziziphus_jujuba, Fragaria_gracilis, Fragaria_tibetica, Fragaria_nubicola, Fragaria_iinumae... (+11 more)
+  Fragaria (genus) [2 tips] - intruders: Fragaria_nubicola, Fragaria_iinumae, Fragaria_iturupensis, Fragaria_moschata, Fragaria_orientalis... (+2 more)
+  Fragaria (genus) [2 tips] - intruders: Fragaria_gracilis, Fragaria_tibetica, Fragaria_nubicola, Fragaria_moschata, Fragaria_orientalis... (+2 more)
+  Fragaria (genus) [2 tips] - intruders: Fragaria_gracilis, Fragaria_tibetica, Fragaria_nubicola, Fragaria_iinumae, Fragaria_iturupensis... (+2 more)
+  Maleae (tribe) [2 tips] - intruders: Malus_domestica, Torminalis_glaberrima
+  Brassicaceae (family) [2 tips] - intruders: Capsella_rubella, Boechera_stricta, Brassica_carinata, Brassica_nigra, Sinapis_arvensis... (+5 more)
+  Brassica (genus) [2 tips] - intruders: Brassica_juncea, Brassica_napus, Brassica_oleracea, Brassica_rapa
+  Brassica (genus) [2 tips] - intruders: Brassica_carinata, Brassica_nigra, Brassica_juncea, Brassica_rapa
+  Gossypium (genus) [2 tips] - intruders: Gossypium_arboreum, Gossypium_davidsonii, Gossypium_raimondii, Gossypium_thurberi, Gossypium_trilobum... (+1 more)
+  Gossypium (genus) [2 tips] - intruders: Gossypium_arboreum, Gossypium_davidsonii, Gossypium_harknessii, Gossypium_hirsutum, Gossypium_raimondii... (+1 more)
+  Populus (genus) [2 tips] - intruders: Populus_alba, Populus_davidiana
+  Salix (genus) [2 tips] - intruders: Salix_brachista, Salix_dunnii
+  Santalales (order) [2 tips] - intruders: Malania_oleifera
+  Andropogoneae (tribe) [2 tips] - intruders: Chrysopogon_zizanioides, Tripsacum_dactyloides, Zea_luxurians, Zea_perennis
+  Oryza (genus) [2 tips] - intruders: Oryza_sativa_Indica_Group, Oryza_minuta
+  Alismatales (order) [2 tips] - intruders: Spirodela_polyrhiza
