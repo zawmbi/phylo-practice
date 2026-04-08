@@ -413,6 +413,8 @@ class PhyLabelerApp:
                                 relief=tk.SUNKEN, anchor="w")
         status_bar.pack(fill=tk.X, side=tk.BOTTOM, padx=5)
 
+        self._bind_scroll_wheels()
+
     # ---- Taxonomy DB operations ----
 
     def _check_cache(self):
@@ -879,6 +881,7 @@ class PhyLabelerApp:
         )
         guide_text.pack(fill=tk.BOTH, expand=True)
         self._style_text_widget(guide_text)
+        self._bind_mousewheel(guide_text, yview=True)
         guide_text.insert(tk.END, self._load_project_guide())
         guide_text.configure(state=tk.DISABLED)
 
@@ -908,6 +911,45 @@ class PhyLabelerApp:
         )
 
     # ---- Helpers ----
+
+    def _mousewheel_units(self, event):
+        """Normalize mouse wheel delta across platforms."""
+        if getattr(event, "delta", 0):
+            if abs(event.delta) >= 120:
+                return -int(event.delta / 120)
+            return -1 if event.delta > 0 else 1
+        if getattr(event, "num", None) == 4:
+            return -1
+        if getattr(event, "num", None) == 5:
+            return 1
+        return 0
+
+    def _bind_mousewheel(self, widget, yview=True, xview=False):
+        """Enable mouse wheel scrolling for a widget."""
+        def on_scroll(event):
+            step = self._mousewheel_units(event)
+            if step == 0:
+                return
+            use_x = xview and (event.state & 0x0001)
+            if use_x:
+                widget.xview_scroll(step, "units")
+            elif yview:
+                widget.yview_scroll(step, "units")
+            return "break"
+
+        for seq in ("<MouseWheel>", "<Button-4>", "<Button-5>",
+                    "<Shift-MouseWheel>", "<Shift-Button-4>",
+                    "<Shift-Button-5>"):
+            widget.bind(seq, on_scroll, add="+")
+
+    def _bind_scroll_wheels(self):
+        """Attach mouse wheel scrolling to all scrollable panels."""
+        self._bind_mousewheel(self.tree_listbox, yview=True)
+        self._bind_mousewheel(self.tree_canvas, yview=True, xview=True)
+        self._bind_mousewheel(self.summary_text, yview=True)
+        self._bind_mousewheel(self.nonmono_tree, yview=True)
+        self._bind_mousewheel(self.mono_tree, yview=True)
+        self._bind_mousewheel(self.unresolved_text, yview=True)
 
     def _run_threaded(self, target, status_msg="Working..."):
         """Run a function in a background thread."""
